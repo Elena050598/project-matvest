@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="remoteDeploymentFS://&lt;2081d074-c6d8-48ba-a3b1-3f1c7b43dccc&gt;/resources/views/dip/allpdf.blade.php" charset="windows-1251" />
+    <file url="remoteDeploymentFS://&lt;2081d074-c6d8-48ba-a3b1-3f1c7b43dccc&gt;/resources/views/dip/blag_pdf.blade.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/DipController.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/SertController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/dip/allpdf.blade.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/resources/views/dip/blag_pdf.blade.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/resources/views/sert/pdf.blade.php" charset="windows-1251" />
+  </component>
+</project>
